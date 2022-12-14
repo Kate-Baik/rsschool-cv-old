@@ -1,5 +1,11 @@
 # name surname
 ## krakow
-> english polish russian
-> Jira
-skills
+
+### languages
+ english polish russian
+
+### skills 
+to be decribed here
+
+### projects
+to be decribed here
