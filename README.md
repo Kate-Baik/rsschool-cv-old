@@ -1,2 +1,1 @@
-# rsschool-cv
-another attempt
+ttps://kate-baik.github.io/rsschool-cv/
